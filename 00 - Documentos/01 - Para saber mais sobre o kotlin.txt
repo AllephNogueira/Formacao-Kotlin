@@ -1,0 +1,3 @@
+O Kotlin é uma linguagem multiplataforma, orientada a objetos, criada pela JetBrains em 2011. Se quiser conhecer mais sobre a história, possibilidades de aplicação, características, vantagens e mercado de trabalho, leia o artigo Linguagem Kotlin: o que é, para que serve e um guia para aprender.
+
+https://www.alura.com.br/artigos/kotlin
