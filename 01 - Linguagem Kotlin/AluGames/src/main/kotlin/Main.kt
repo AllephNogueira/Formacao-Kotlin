@@ -17,5 +17,10 @@ fun main() {
     val json = response.body() // Aqui estamos recebendo da variavel o corpo do site.
     println(json)
 
+    val meuJogo = Jogo()
+    meuJogo.titulo = "Batman"
+    meuJogo.capa = "teste"
+
+    println(meuJogo)
 
 }
